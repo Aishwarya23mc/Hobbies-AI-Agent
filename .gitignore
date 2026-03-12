@@ -1,0 +1,6 @@
+hobby-venv/
+venv/
+.env
+__pycache__/
+.idea/
+*.pyc
